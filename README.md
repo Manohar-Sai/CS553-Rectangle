@@ -2,7 +2,7 @@
 CS553 Term paper on RECTANGLE cipher
   
 
-Link to Presentation Video: <a href=https://drive.google.com/file/d/1QKPvkRC1qT4syLNIbTRlQx-OvseH_3xT/view?usp=sharing> Google Drive</a>
+Link to Presentation Video: [Google Drive](https://drive.google.com/file/d/1QKPvkRC1qT4syLNIbTRlQx-OvseH_3xT/view?usp=sharing)
 
 
   
