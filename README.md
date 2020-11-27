@@ -1,5 +1,5 @@
 # CS553-Rectangle
-CS553 Term paper on RECTANGLE cipher
+CS553 [Term paper](https://github.com/manu156/CS553-Rectangle/blob/main/term_paper.pdf) on RECTANGLE cipher
   
 
 Link to Presentation Video: [Google Drive](https://drive.google.com/file/d/1QKPvkRC1qT4syLNIbTRlQx-OvseH_3xT/view?usp=sharing)
