@@ -1,9 +1,10 @@
 # CS553-Rectangle
 CS553 Term paper on RECTANGLE cipher
   
-<br>
-Link to Presentation Video: [Google Drive](https://drive.google.com/file/d/1QKPvkRC1qT4syLNIbTRlQx-OvseH_3xT/view?usp=sharing)
-<br>
+
+Link to Presentation Video: <a href=https://drive.google.com/file/d/1QKPvkRC1qT4syLNIbTRlQx-OvseH_3xT/view?usp=sharing>Google Drive</a>
+
+
   
 The implementation of the RECTANGLE cipher can be found under implementation which leads to an other repo. <br />
 The implementation is done in Rust. <br />
